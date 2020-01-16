@@ -1,12 +1,8 @@
+<div class="padded" markdown="1">
+
 ### [Auto Auditor](https://github.com/ljeng/c2-education/blob/master/auto_auditor.js)
 
 I wrote a JavaScript program that sorts billing events in chronological order and then uses binary search to find billing errors in business data in C2 Education’s Smart2 system. This significantly sped up the process of auditing business data and improved accuracy.
-
----
-### [*Titanic*: Machine Learning from Disaster](https://www.dropbox.com/sh/5hsq3c22vn3hm3h/AAARl9zrDcFKHgEvKAyayJrha)
-Co-contributor: [Dr. Ana Malagon](https://physics.yale.edu/people/ana-malagon)
-
-We completed an analysis of what sorts of people were likely to survive the sinking of the *Titanic* using the *k*-nearest neighbors algorithm.
 
 ---
 ### [Self-Driving Car Simulator](https://www.dropbox.com/sh/1xuv6o85qmvh611/AADWSxHI7Q2jWb4U6QNHhmr2a)
@@ -53,3 +49,5 @@ Co-authors: Dr. Melanie Neumann, Dr. Yonggang Wang, Sharon Kim, Shwuhey M. Hong,
 *Journal of Neuroscience Methods*, 2009
 
 To determine the effect of traumatic brain injury on gait function in adult mice, we assessed gait changes following the unilateral controlled cortical impact using a computer-assisted automated gait analysis system.
+
+</div>

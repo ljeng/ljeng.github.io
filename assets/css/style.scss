@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 main#content {
-    max-width: 128rem;
+    max-width: 100%;
+    padding: 0;
 }
 
 .page-header {
@@ -18,6 +19,23 @@ main#content {
     vertical-align: middle;
     &:p {
         vertical-align: middle;
+    }
+}
+
+div.padded {
+    margin: 0 auto;
+    
+    @include large {
+        max-width: 64rem;
+        padding: 2rem 6rem;
+    }
+
+    @include medium {
+        padding: 2rem 4rem;
+    }
+
+    @include small {
+        padding: 2rem 1rem;
     }
 }
 
@@ -37,8 +55,8 @@ img {
 }
 
 .head-shot {
-    width: 512px;
-    height: 384px;
+    width: 100%;
+    height: auto;
 }
 
 @media only screen and (max-width: 768px) {
@@ -70,6 +88,5 @@ img {
     
     .head-shot {
         width: 100%;
-        height: auto;
     }
 }

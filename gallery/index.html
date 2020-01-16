@@ -3,45 +3,47 @@
     <head>
         <title>Gallery</title>
         <style>
-			#map {
-			    height: 100%;
-			}
+            #map {
+                height: 100%;
+            }
 
-			html, body {
-			    height: 100%;
-			    margin: 0;
-			    padding: 0;
-			}
+            html, body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
 
-			figure {
-			  position: relative;
-			}
+            figure {
+                display: table;
+                position: relative;
+            }
 
-			img {
-			  display: block;
-			}
+            img {
+                display: block;
+            }
 
-			figcaption {
-			  padding: 1%;
-			  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-			  font-size: 16px;
-			  line-height: 1.5;
-			  color: #606c71;
-			  background-color: black;
-			  width: 99%%;
-			  position: absolute;
-			  top: 100%;
-			  opacity: 0;
-			  transform: translateY(-100%);
-			}
+            figcaption {
+                padding: 1%;
+                font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 1.5;
+                color: #606c71;
+                background-color: black;
+                width: 98%;
+                display: table-caption;
+                position: absolute;
+                top: 100%;
+                opacity: 0;
+                transform: translateY(-100%);
+            }
 
-			figure:hover figcaption {
-			  opacity: 0.75;
-			}
+            figure:hover figcaption {
+                opacity: 0.75;
+            }
         </style>
     </head>
     <body>
-    	<div id="map"></div>
+        <div id="map"></div>
     </body>
     <script src="script.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
