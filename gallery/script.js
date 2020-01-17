@@ -39,7 +39,7 @@ function initMap() {
             type: 'Twitter',
             width: 395,
             height: 527,
-            file: 'twitter',
+            file: 'twitter2',
             caption: 'Second onsite: Software Engineer - Public Cloud Services. This was one of my best interview experiences and they even gave me a gift pack with a Twitter-branded water bottle!'
         },
         {
@@ -131,7 +131,7 @@ function initMap() {
             content: '<figure><img src="images/' + features[i].file + '.jpg" width="' + features[i].width + '" height="' + features[i].height + '" /><figcaption>' + features[i].caption + '</figcaption></figure>'
         });
         if (i == 6) {
-            marker.content = '<figure><img src="images/google1" width="269" height="359" style="display:inline-block"/><img src="images/google4" width="269" height="359" style="display:inline-block"/><figcaption style="top:359px">' + features[i].caption + '</figcaption></figure>';
+            marker.content = '<figure><img src="images/google1.jpg" width="269" height="359" style="display:inline-block"/><img src="images/google4.jpg" width="269" height="359" style="display:inline-block"/><figcaption style="top:359px">' + features[i].caption + '</figcaption></figure>';
         }
         markers.push(marker);
     };
