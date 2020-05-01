@@ -43,6 +43,14 @@ function initMap() {
             caption: 'Second onsite: Software Engineer - Public Cloud Services. This was one of my best interview experiences and they even gave me a gift pack with a Twitter-branded water bottle!'
         },
         {
+            position: new google.maps.LatLng(37.4040146, -122.057346),
+            type: 'Google',
+            width: 395,
+            height: 527,
+            file: 'google5',
+            caption: 'Fourth onsite: Web Solutions Engineer - and my first onsite for a position that isn\'t SWE.'
+        },
+        {
             position: new google.maps.LatLng(37.4211056, -122.0794032),
             type: 'Google',
             width: 527,
