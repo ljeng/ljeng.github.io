@@ -4,10 +4,6 @@
 
 Cheat Sheet is a well-documented collection of templates for common data structures and algorithms to be used for competitive programming.
 
-### [Auto Auditor](https://github.com/ljeng/c2-education/blob/master/auto_auditor.js)
-
-I wrote a JavaScript program that sorts billing events in chronological order and then uses binary search to find billing errors in business data in C2 Education’s Smart2 system. This significantly sped up the process of auditing business data and improved accuracy.
-
 ---
 ### [Self-Driving Car Simulator](https://www.dropbox.com/sh/1xuv6o85qmvh611/AADWSxHI7Q2jWb4U6QNHhmr2a)
 
