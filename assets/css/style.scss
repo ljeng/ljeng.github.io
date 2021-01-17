@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+main#content {
+    max-width: 100%;
+    padding: 0;
+}
+
 .page-header {
     background-color: #000000;
     background-image: none;
