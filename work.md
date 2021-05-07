@@ -21,7 +21,7 @@ We constructed a bridge that was six feet in length and capable of supporting 40
 
 ---
 ### [Watersports Dock Rehabilitation](https://www.dropbox.com/sh/b7lbzvcvfqa8hk3/AACi3atw9bN_q9WjSNoEgsR8a)
-Co-authors: Daniel Molinaro, [Jake Hughes](http://www.hughesjake.com/), Amanda Yuan, [Isha Patel](https://www.linkedin.com/in/patelisha23/)
+Co-authors: Daniel Molinaro, [Jake Hughes](https://sites.google.com/site/jakehughessteachingportfolio/), Amanda Yuan, [Isha Patel](https://www.linkedin.com/in/patelisha23/)
 
 Alpha Group drafted a plan to rehabilitate a watersports dock in Boca Chica, Dominican Republic by replacing the concrete and bench, constructing a dock, installing stairs and a ramp, and using a concrete sealer.
 
